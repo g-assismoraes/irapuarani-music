@@ -1,205 +1,205 @@
-file_name,valence_gemma,valence_mistral,valence_llama,valence_phi,valence_qwen
-Chrono_SNES_Chrono Trigger_600 AD.txt,1,1,1,1,1
-Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Great Warrior.txt,1,1,1,1,1
-Chrono_SNES_Chrono Trigger_Ocean Palace.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor.txt,1,-1,1,1,1
-Other_PC_Age of Empires II The Age of Kings_Menu.txt,1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Tifa.txt,1,-1,1,1,1
-Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll.txt,1,1,1,1,1
-Other_NES_Ghosts 'n Goblins_Main Theme.txt,1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It.txt,1,-1,1,1,1
-Dragon Quest_NES_Dragon Quest_Battle Theme.txt,1,-1,1,1,1
-Other_PC_Aion Tower of Eternity_Forgotten Sorrow.txt,1,1,-1,1,1
-Star Fox_SNES_Star Fox_Corneria.txt,1,1,1,-1,1
-Final Fantasy_PS1_Final Fantasy VII_Lurking In The Darkness.txt,1,1,-1,1,1
-Battle of Olympus_NES_Battle of Olympus_A Brave Warrior.txt,1,1,1,1,1
-Other_N64_GoldenEye 007_Finish the job James If you can.txt,1,1,-1,1,-1
-Xeno_PS1_Xenogears_Knight of Fire.txt,1,-1,-1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Jenova Absolute.txt,1,-1,1,1,1
-Mana_SNES_Secret of Mana_Meridian Dance.txt,1,1,1,-1,1
-Indiana Jones_PC_Indiana Jones and the Fate of Atlantis_Crossing.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time.txt,1,1,1,1,1
-Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin.txt,1,1,1,1,1
-Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son.txt,1,1,1,1,1
-Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig.txt,1,1,1,1,1
-Dragon Quest_NES_Dragon Quest_Final Battle.txt,1,1,1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain.txt,1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Continue.txt,1,1,1,1,1
-Mana_SNES_Secret of Mana_Rose and Ghost.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Song of Storms.txt,1,1,1,1,1
-Star Fox_SNES_Star Fox_Stage_Clear.txt,-1,1,1,-1,1
-Xeno_PS1_Xenogears_Two Pieces.txt,1,-1,-1,1,-1
-Other_N64_GoldenEye 007_Caverns.txt,1,-1,1,1,1
-Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_The Mayors Office.txt,1,1,1,1,1
-Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love.txt,1,1,1,1,1
-Other_PC_The Sims_Buying Theme.txt,1,-1,1,1,1
-Mana_SNES_Secret of Mana_A Wish.txt,1,1,1,1,1
-Other_PC_World of Warcraft Warlords of Draenor_Song of Elune.txt,1,1,-1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man.txt,1,-1,1,1,1
-Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags.txt,1,1,1,1,-1
-Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Happy.txt,1,1,1,1,1
-Super Mario_N64_Super Mario 64_Dire Dire Docks.txt,1,-1,1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart.txt,1,-1,1,1,1
-Banjo-Kazooie_N64_Banjo-Tooie_End Credits.txt,1,1,1,1,1
-Star Fox_GCN_Star Fox Adventures_Dark Ice Mines.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Gold Saucer.txt,-1,1,-1,-1,1
-Banjo-Kazooie_N64_Banjo-Tooie_Spiral Mountain.txt,1,1,-1,1,1
-Other_PC_The Sims_Theme 5.txt,1,1,1,1,1
-Other_PC_Aion Tower of Eternity_The Still Sad World.txt,1,1,1,1,1
-Super Mario_N64_Super Mario 64_Cool Cool Mountain.txt,1,1,-1,1,1
-Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies.txt,1,-1,1,1,1
-Star Fox_SNES_Star Fox_SpaceArmada.txt,1,1,-1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp.txt,1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Battle Theme.txt,1,1,1,1,1
-Other_PS2_Shadow of the Colossus_Memories.txt,1,1,1,1,1
-Other_PC_The Sims_The Neighbourhood.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Windmill Hut.txt,1,-1,1,1,1
-Other_PS2_Shadow of the Colossus_The Farthest Land.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Oppressed People.txt,1,1,1,1,1
-Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi.txt,1,1,1,1,1
-Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice.txt,1,1,1,1,1
-Other_PC_Warcraft II_Human Theme 1.txt,1,1,1,1,1
-Chrono_SNES_Chrono Trigger_Corridors of Time.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Ganondorf.txt,1,1,1,1,1
-Other_PC_The Sims_Bittersweet.txt,1,1,1,1,1
-Battle of Olympus_NES_Battle of Olympus_Athene Sonata.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme.txt,1,1,1,1,1
-Super Mario_N64_Super Mario 64_Select a File.txt,1,1,1,1,1
-Mana_SNES_Secret of Mana_Danger.txt,1,1,1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Sad.txt,1,1,-1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo.txt,1,-1,1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Gobis Valley.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement.txt,1,1,1,1,1
-Chrono_SNES_Chrono Trigger_Silent Light.txt,1,1,1,1,1
-Other_PS2_Shadow of the Colossus_The Opened Way.txt,1,1,-1,1,1
-Chrono_SNES_Chrono Trigger_Maguss Theme.txt,1,-1,1,1,1
-Chrono_SNES_Chrono Trigger_Chrono Trigger.txt,1,1,1,1,1
-Dragon Quest_NES_Dragon Quest_Castle Theme.txt,1,1,1,1,1
-Chrono_SNES_Chrono Trigger_Secret of the Forest.txt,1,1,1,1,1
-Super Mario_N64_Super Mario 64_Princess Secret Slide.txt,1,-1,-1,-1,1
-Other_PC_Aion Tower of Eternity_Wings of the Knight.txt,1,1,1,1,1
-Super Mario_NES_Super Mario Bros_Underworld.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion.txt,1,-1,1,1,1
-Mana_SNES_Secret of Mana_Close Your Eye lids.txt,1,-1,1,1,1
-Other_PC_The Sims_Since We Met.txt,1,1,1,1,1
-Banjo-Kazooie_N64_Banjo-Tooie_Terry.txt,1,1,-1,1,1
-Mana_SNES_Secret of Mana_Kind Memories.txt,1,-1,-1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple.txt,1,1,-1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Motzhand.txt,1,1,1,1,-1
-Dragon Quest_NES_Dragon Quest_Town Theme.txt,1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony.txt,1,1,1,1,1
-Mana_SNES_Secret of Mana_Tell A Strange Tale.txt,1,1,1,1,1
-Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai.txt,1,1,1,1,1
-Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus.txt,1,-1,-1,-1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard.txt,1,1,-1,1,1
-Other_N64_GoldenEye 007_Runway.txt,1,-1,1,1,1
-Other_PC_Aion Tower of Eternity_Main Theme.txt,1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins.txt,1,1,-1,1,1
-Battle of Olympus_NES_Battle of Olympus_Orpheus Journey Arranged.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon.txt,1,1,-1,1,1
-Super Mario_NES_Super Mario Bros_Main Theme.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Main Theme.txt,1,1,-1,1,1
-Xeno_PS1_Xenogears_Valley Where the Wind Is Born.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town.txt,-1,-1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Goron City.txt,1,1,1,1,1
-Super Mario_SNES_Super Mario World_Castle.txt,1,-1,-1,1,1
-Xeno_PS1_Xenogears_Bonds of Sea and Fire.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme.txt,1,1,-1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood.txt,1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Who Are You.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House.txt,1,-1,1,1,-1
-Final Fantasy_PS1_Final Fantasy VII_Weapon Raid.txt,1,-1,-1,1,1
-Super Mario_N64_Super Mario 64_Final Bowser.txt,1,1,1,1,1
-Other_PS2_Shadow of the Colossus_The Tale of the 16 Sacrifices.txt,1,1,1,-1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago.txt,1,1,1,1,1
-Other_PC_The Sims_New Beginnings.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Life Stream.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Mining Town.txt,-1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Judgement Day.txt,1,1,1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak.txt,1,1,1,1,1
-Other_PC_Warcraft II_Orc Theme 1.txt,1,-1,1,-1,1
-Super Mario_NES_Super Mario Bros_Underwater.txt,1,-1,-1,1,1
-Chrono_SNES_Chrono Trigger_Millenial Fair.txt,1,1,-1,1,1
-Super Mario_N64_Super Mario 64_Haunted Merry Go Round.txt,1,1,-1,1,1
-Super Mario_SNES_Super Mario World_Map.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song.txt,1,1,-1,1,1
-Other_N64_GoldenEye 007_Runway X.txt,1,-1,1,1,1
-Xeno_PS1_Xenogears_Lost Broken Shards.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time.txt,1,1,1,1,1
-Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep.txt,1,1,1,1,1
-Other_N64_GoldenEye 007_Statue.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Trail of Blood.txt,1,-1,1,1,1
-Super Mario_SNES_Super Mario World_Overworld.txt,1,1,1,1,1
-Mana_SNES_Secret of Mana_Spirit of the Night.txt,1,1,1,1,1
-Other_PC_The Sims_Theme 4.txt,1,1,-1,1,1
-Dragon Quest_NES_Dragon Quest_Overworld Theme.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride.txt,1,1,-1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Overworld.txt,1,1,1,1,1
-Mana_SNES_Secret of Mana_The Holy Intruder.txt,1,-1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing.txt,1,1,-1,1,1
-Other_PC_The Sims_The Simple Life.txt,1,1,1,1,-1
-Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet.txt,1,1,1,1,1
-Other_N64_GoldenEye 007_Frigate.txt,-1,-1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Gerudo Valley.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods.txt,1,-1,-1,1,1
-Banjo-Kazooie_N64_Banjo-Tooie_Witchy World.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Anxious Heart.txt,1,1,-1,1,1
-Chrono_SNES_Chrono Trigger_Wings That Cross Time.txt,1,-1,1,1,1
-Dragon Quest_NES_Dragon Quest_Title Screen.txt,1,1,1,-1,1
-Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Serenade of Water.txt,1,1,-1,1,1
-Dragon Quest_NES_Dragon Quest_Cave Theme.txt,1,-1,1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Ending.txt,1,1,1,1,1
-Super Mario_SNES_Super Mario World_Ending Theme.txt,1,-1,-1,1,1
-Super Mario_SNES_Super Mario World_Title Screen.txt,1,1,1,1,1
-Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Cids Theme.txt,1,-1,1,1,1
-Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble.txt,1,1,1,1,1
-Other_NES_Tetris_Enter Your Name.txt,1,1,1,1,1
-Other_PC_Aion Tower of Eternity_Death Waltz.txt,1,1,1,1,1
-Other_N64_GoldenEye 007_Dam.txt,1,1,1,1,1
-Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep.txt,1,1,1,1,1
-Other_PS2_Shadow of the Colossus_Prayer.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix.txt,1,1,-1,1,1
-Star Fox_SNES_Star Fox_Map.txt,1,1,-1,1,1
-Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey.txt,1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme.txt,1,1,-1,1,1
-Star Fox_SNES_Star Fox_Venom.txt,-1,1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_JENOVA.txt,1,1,1,1,1
-Xeno_PS1_Xenogears_Ship of Regret and Sleep.txt,1,-1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction.txt,-1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Mark of the Traitor.txt,1,-1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Tower Temple Inverted.txt,1,-1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Temple Tower.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town.txt,1,1,1,1,1
-Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop.txt,1,1,-1,1,1
-Other_PC_Aion Tower of Eternity_Fairy of the Peace.txt,1,1,1,1,1
-Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People.txt,1,-1,-1,1,1
-Final Fantasy_PS1_Final Fantasy VII_One Winged Angel.txt,1,-1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest.txt,1,1,1,1,1
-Super Mario_SNES_Super Mario World_Overworld 2.txt,1,-1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Prelude of Light.txt,1,1,1,1,1
-Super Mario_SNES_Super Mario World_Forest of Illusion.txt,1,-1,1,1,1
-Other_PC_Age of Empires_Title Theme.txt,1,1,-1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Descendent of Shinobi.txt,1,1,1,1,1
-Other_N64_GoldenEye 007_Facility X.txt,1,1,-1,1,-1
-Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme.txt,1,-1,-1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Vincents Theme.txt,1,-1,1,1,1
-Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts.txt,1,1,-1,1,1
-Super Mario_N64_Super Mario 64_Koopas Theme.txt,1,1,1,1,1
-Other_NES_Tetris_Music A.txt,1,-1,1,1,1
-Other_PC_World of Warcraft Warlords of Draenor_Stormwind.txt,1,1,1,1,1
-Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village.txt,1,-1,1,1,1
-Other_PC_Aion Tower of Eternity_Song of Moonlight.txt,1,-1,1,1,1
-Final Fantasy_PS1_Final Fantasy VII_Waltz de Chocobo.txt,1,1,1,1,1
-The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Inside Jabu Jabus Belly.txt,1,-1,1,1,1
-Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic.txt,1,1,1,1,1
-Xeno_PS1_Xenogears_Gathering Stars In the Night Sky.txt,-1,1,1,1,1
+file_name,valence_gemma,valence_mistral,valence_llama,valence_phi,valence_qwen,valence_gpt
+Chrono_SNES_Chrono Trigger_600 AD.txt,1,1,1,1,1,1
+Indiana Jones_PC_Indiana Jones and the Last Crusade_The Holy Grail.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Great Warrior.txt,1,1,1,1,1,-1
+Chrono_SNES_Chrono Trigger_Ocean Palace.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Fortress of the Condor.txt,1,-1,1,1,1,1
+Other_PC_Age of Empires II The Age of Kings_Menu.txt,1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Tifa.txt,1,-1,1,1,1,1
+Other_PC_Warcraft III Reign of Chaos_Blackrock and Roll.txt,1,1,1,1,1,1
+Other_NES_Ghosts 'n Goblins_Main Theme.txt,1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Its Difficult To Stand On Both Feet Isnt It.txt,1,-1,1,1,1,1
+Dragon Quest_NES_Dragon Quest_Battle Theme.txt,1,-1,1,1,1,1
+Other_PC_Aion Tower of Eternity_Forgotten Sorrow.txt,1,1,-1,1,1,1
+Star Fox_SNES_Star Fox_Corneria.txt,1,1,1,-1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Lurking In The Darkness.txt,1,1,-1,1,1,1
+Battle of Olympus_NES_Battle of Olympus_A Brave Warrior.txt,1,1,1,1,1,1
+Other_N64_GoldenEye 007_Finish the job James If you can.txt,1,1,-1,1,-1,1
+Xeno_PS1_Xenogears_Knight of Fire.txt,1,-1,-1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Jenova Absolute.txt,1,-1,1,1,1,1
+Mana_SNES_Secret of Mana_Meridian Dance.txt,1,1,1,-1,1,1
+Indiana Jones_PC_Indiana Jones and the Fate of Atlantis_Crossing.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Temple of Time.txt,1,1,1,1,1,1
+Indiana Jones_PC_Indiana Jones and the Last Crusade_Zeppelin.txt,1,1,1,1,1,1
+Other_PC_World of Warcraft Wrath of the Lich King_Arthas my Son.txt,1,1,1,1,1,1
+Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Jib Jig.txt,1,1,1,1,1,1
+Dragon Quest_NES_Dragon Quest_Final Battle.txt,1,1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Mumbos Mountain.txt,1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Continue.txt,1,1,1,1,1,1
+Mana_SNES_Secret of Mana_Rose and Ghost.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Song of Storms.txt,1,1,1,1,1,1
+Star Fox_SNES_Star Fox_Stage_Clear.txt,-1,1,1,-1,1,1
+Xeno_PS1_Xenogears_Two Pieces.txt,1,-1,-1,1,-1,-1
+Other_N64_GoldenEye 007_Caverns.txt,1,-1,1,1,1,1
+Xeno_PS1_Xenogears_Treasure Which Cannot Be Stolen.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_The Mayors Office.txt,1,1,1,1,1,1
+Battle of Olympus_NES_Battle of Olympus_The Story of a Lost Love.txt,1,1,1,1,1,1
+Other_PC_The Sims_Buying Theme.txt,1,-1,1,1,1,-1
+Mana_SNES_Secret of Mana_A Wish.txt,1,1,1,1,1,1
+Other_PC_World of Warcraft Warlords of Draenor_Song of Elune.txt,1,1,-1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Chasing The Black Caped Man.txt,1,-1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags.txt,1,1,1,1,-1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Happy.txt,1,1,1,1,1,1
+Super Mario_N64_Super Mario 64_Dire Dire Docks.txt,1,-1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Mad Monster Mansion.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Sandy Badlands.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Holding My Thoughts in My Heart.txt,1,-1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_End Credits.txt,1,1,1,1,1,1
+Star Fox_GCN_Star Fox Adventures_Dark Ice Mines.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Gold Saucer.txt,-1,1,-1,-1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_Spiral Mountain.txt,1,1,-1,1,1,1
+Other_PC_The Sims_Theme 5.txt,1,1,1,1,1,1
+Other_PC_Aion Tower of Eternity_The Still Sad World.txt,1,1,1,1,1,1
+Super Mario_N64_Super Mario 64_Cool Cool Mountain.txt,1,1,-1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_A High Wind Takes to the Skies.txt,1,-1,1,1,1,1
+Star Fox_SNES_Star Fox_SpaceArmada.txt,1,1,-1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Bubblegloop Swamp.txt,1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Battle Theme.txt,1,1,1,1,1,1
+Other_PS2_Shadow of the Colossus_Memories.txt,1,1,1,1,1,1
+Other_PC_The Sims_The Neighbourhood.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Windmill Hut.txt,1,-1,1,1,1,1
+Other_PS2_Shadow of the Colossus_The Farthest Land.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Oppressed People.txt,1,1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_Chilly Willy Chilli Billi.txt,1,1,1,1,1,1
+Indiana Jones_PC_Indiana Jones and the Last Crusade_Venice.txt,1,1,1,1,1,1
+Other_PC_Warcraft II_Human Theme 1.txt,1,1,1,1,1,1
+Chrono_SNES_Chrono Trigger_Corridors of Time.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Ganondorf.txt,1,1,1,1,1,1
+Other_PC_The Sims_Bittersweet.txt,1,1,1,1,1,1
+Battle of Olympus_NES_Battle of Olympus_Athene Sonata.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Owls Theme.txt,1,1,1,1,1,1
+Super Mario_N64_Super Mario 64_Select a File.txt,1,1,1,1,1,1
+Mana_SNES_Secret of Mana_Danger.txt,1,1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Boggys Igloo Sad.txt,1,1,-1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Electric de Chocobo.txt,1,-1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Gobis Valley.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_One Winged Angel Reborn Arrangement.txt,1,1,1,1,1,1
+Chrono_SNES_Chrono Trigger_Silent Light.txt,1,1,1,1,1,1
+Other_PS2_Shadow of the Colossus_The Opened Way.txt,1,1,-1,1,1,1
+Chrono_SNES_Chrono Trigger_Maguss Theme.txt,1,-1,1,1,1,1
+Chrono_SNES_Chrono Trigger_Chrono Trigger.txt,1,1,1,1,1,1
+Dragon Quest_NES_Dragon Quest_Castle Theme.txt,1,1,1,1,1,1
+Chrono_SNES_Chrono Trigger_Secret of the Forest.txt,1,1,1,1,1,1
+Super Mario_N64_Super Mario 64_Princess Secret Slide.txt,1,-1,-1,-1,1,1
+Other_PC_Aion Tower of Eternity_Wings of the Knight.txt,1,1,1,1,1,1
+Super Mario_NES_Super Mario Bros_Underworld.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Alien Invasion.txt,1,-1,1,1,1,1
+Mana_SNES_Secret of Mana_Close Your Eye lids.txt,1,-1,1,1,1,1
+Other_PC_The Sims_Since We Met.txt,1,1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_Terry.txt,1,1,-1,1,1,1
+Mana_SNES_Secret of Mana_Kind Memories.txt,1,-1,-1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Forest Temple.txt,1,1,-1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Motzhand.txt,1,1,1,1,-1,1
+Dragon Quest_NES_Dragon Quest_Town Theme.txt,1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Rufuss Welcoming Ceremony.txt,1,1,1,1,1,1
+Mana_SNES_Secret of Mana_Tell A Strange Tale.txt,1,1,1,1,1,1
+Battle of Olympus_NES_Battle of Olympus_Olympus No Tatakai.txt,1,1,1,1,1,1
+Battle of Olympus_NES_Battle of Olympus_A Prayer to Zeus.txt,1,-1,-1,-1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Courtyard.txt,1,1,-1,1,1,1
+Other_N64_GoldenEye 007_Runway.txt,1,-1,1,1,1,1
+Other_PC_Aion Tower of Eternity_Main Theme.txt,1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_The Nightmare Begins.txt,1,1,-1,1,1,1
+Battle of Olympus_NES_Battle of Olympus_Orpheus Journey Arranged.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Cosmo Canyon.txt,1,1,-1,1,1,1
+Super Mario_NES_Super Mario Bros_Main Theme.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Deku Palace.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Main Theme.txt,1,1,-1,1,1,1
+Xeno_PS1_Xenogears_Valley Where the Wind Is Born.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Clock Town.txt,-1,-1,1,1,1,-1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Goron City.txt,1,1,1,1,1,1
+Super Mario_SNES_Super Mario World_Castle.txt,1,-1,-1,1,1,1
+Xeno_PS1_Xenogears_Bonds of Sea and Fire.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Chase Theme.txt,1,1,-1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Click Clock Wood.txt,1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Who Are You.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Links House.txt,1,-1,1,1,-1,1
+Final Fantasy_PS1_Final Fantasy VII_Weapon Raid.txt,1,-1,-1,1,1,1
+Super Mario_N64_Super Mario 64_Final Bowser.txt,1,1,1,1,1,1
+Other_PS2_Shadow of the Colossus_The Tale of the 16 Sacrifices.txt,1,1,1,-1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Zeldas Lullaby.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_On That Day 5 Years Ago.txt,1,1,1,1,1,1
+Other_PC_The Sims_New Beginnings.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Life Stream.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Mining Town.txt,-1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Costa Del Sol.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Judgement Day.txt,1,1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Freezeezy Peak.txt,1,1,1,1,1,1
+Other_PC_Warcraft II_Orc Theme 1.txt,1,-1,1,-1,1,1
+Super Mario_NES_Super Mario Bros_Underwater.txt,1,-1,-1,1,1,1
+Chrono_SNES_Chrono Trigger_Millenial Fair.txt,1,1,-1,1,1,1
+Super Mario_N64_Super Mario 64_Haunted Merry Go Round.txt,1,1,-1,1,1,1
+Super Mario_SNES_Super Mario World_Map.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Sarias Song.txt,1,1,-1,1,1,1
+Other_N64_GoldenEye 007_Runway X.txt,1,-1,1,1,1,1
+Xeno_PS1_Xenogears_Lost Broken Shards.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Medley of Time.txt,1,1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_Cauldron Keep.txt,1,1,1,1,1,1
+Other_N64_GoldenEye 007_Statue.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Trail of Blood.txt,1,-1,1,1,1,1
+Super Mario_SNES_Super Mario World_Overworld.txt,1,1,1,1,1,1
+Mana_SNES_Secret of Mana_Spirit of the Night.txt,1,1,1,1,1,1
+Other_PC_The Sims_Theme 4.txt,1,1,-1,1,1,1
+Dragon Quest_NES_Dragon Quest_Overworld Theme.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Cremias Wagon Ride.txt,1,1,-1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Overworld.txt,1,1,1,1,1,1
+Mana_SNES_Secret of Mana_The Holy Intruder.txt,1,-1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Song of Healing.txt,1,1,-1,1,1,1
+Other_PC_The Sims_The Simple Life.txt,1,1,1,1,-1,1
+Final Fantasy_PS1_Final Fantasy VII_Those Chosen By the Planet.txt,1,1,1,1,1,1
+Other_N64_GoldenEye 007_Frigate.txt,-1,-1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Gerudo Valley.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Lost Woods.txt,1,-1,-1,1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_Witchy World.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Anxious Heart.txt,1,1,-1,1,1,1
+Chrono_SNES_Chrono Trigger_Wings That Cross Time.txt,1,-1,1,1,1,1
+Dragon Quest_NES_Dragon Quest_Title Screen.txt,1,1,1,-1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Cinco de Chocobo.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Serenade of Water.txt,1,1,-1,1,1,1
+Dragon Quest_NES_Dragon Quest_Cave Theme.txt,1,-1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Ending.txt,1,1,1,1,1,1
+Super Mario_SNES_Super Mario World_Ending Theme.txt,1,-1,-1,1,1,-1
+Super Mario_SNES_Super Mario World_Title Screen.txt,1,1,1,1,1,1
+Xeno_PS1_Xenogears_The Wounded Shall Advance Into the Light.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Cids Theme.txt,1,-1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_Here Comes Trouble.txt,1,1,1,1,1,1
+Other_NES_Tetris_Enter Your Name.txt,1,1,1,1,1,1
+Other_PC_Aion Tower of Eternity_Death Waltz.txt,1,1,1,1,1,1
+Other_N64_GoldenEye 007_Dam.txt,1,1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Tooie_Isle O Hags Cauldron Keep.txt,1,1,1,1,1,1
+Other_PS2_Shadow of the Colossus_Prayer.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Ahead On Our Way Remix.txt,1,1,-1,1,1,1
+Star Fox_SNES_Star Fox_Map.txt,1,1,-1,1,1,1
+Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Snakey Chantey.txt,1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Aeriths Theme.txt,1,1,-1,1,1,1
+Star Fox_SNES_Star Fox_Venom.txt,-1,1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_JENOVA.txt,1,1,1,1,1,1
+Xeno_PS1_Xenogears_Ship of Regret and Sleep.txt,1,-1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Introduction.txt,-1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Mark of the Traitor.txt,1,-1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Tower Temple Inverted.txt,1,-1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Majora's Mask_Stone Temple Tower.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Hyrule Castle Town.txt,1,1,1,1,1,1
+Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Hot Head Bop.txt,1,1,-1,1,1,1
+Other_PC_Aion Tower of Eternity_Fairy of the Peace.txt,1,1,1,1,1,1
+Xeno_PS1_Xenogears_Tears of the Stars Hearts of the People.txt,1,-1,-1,1,1,-1
+Final Fantasy_PS1_Final Fantasy VII_One Winged Angel.txt,1,-1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kokiri Forest.txt,1,1,1,1,1,1
+Super Mario_SNES_Super Mario World_Overworld 2.txt,1,-1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Prelude of Light.txt,1,1,1,1,1,1
+Super Mario_SNES_Super Mario World_Forest of Illusion.txt,1,-1,1,1,1,1
+Other_PC_Age of Empires_Title Theme.txt,1,1,-1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Descendent of Shinobi.txt,1,1,1,1,1,1
+Other_N64_GoldenEye 007_Facility X.txt,1,1,-1,1,-1,1
+Final Fantasy_PS1_Final Fantasy VII_Cait Siths Theme.txt,1,-1,-1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Vincents Theme.txt,1,-1,1,1,1,1
+Battle of Olympus_NES_Battle of Olympus_3 Magic Hearts.txt,1,1,-1,1,1,1
+Super Mario_N64_Super Mario 64_Koopas Theme.txt,1,1,1,1,1,1
+Other_NES_Tetris_Music A.txt,1,-1,1,1,1,1
+Other_PC_World of Warcraft Warlords of Draenor_Stormwind.txt,1,1,1,1,1,1
+Donkey Kong_SNES_Donkey Kong Country 2 Diddy's Kong Quest_Bayou Boogie.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Kakariko Village.txt,1,-1,1,1,1,1
+Other_PC_Aion Tower of Eternity_Song of Moonlight.txt,1,-1,1,1,1,1
+Final Fantasy_PS1_Final Fantasy VII_Waltz de Chocobo.txt,1,1,1,1,1,1
+The Legend of Zelda_N64_The Legend of Zelda Ocarina of Time_Inside Jabu Jabus Belly.txt,1,-1,1,1,1,1
+Banjo-Kazooie_N64_Banjo-Kazooie_Rusty Bucket Bay Aquatic.txt,1,1,1,1,1,1
+Xeno_PS1_Xenogears_Gathering Stars In the Night Sky.txt,-1,1,1,1,1,1
