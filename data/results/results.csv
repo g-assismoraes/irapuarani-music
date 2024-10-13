@@ -1,0 +1,205 @@
+series,console,game,piece,valence,valence_gemma,valence_mistral,valence_llama,valence_phi,valence_qwen
+Banjo-Kazooie,N64,Banjo-Kazooie,Boggys Igloo Happy,1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Boggys Igloo Sad,1,1,1,-1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Bubblegloop Swamp,1,1,-1,1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Click Clock Wood,1,1,-1,1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Ending,1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Freezeezy Peak,1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Gobis Valley,1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Mad Monster Mansion,-1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Motzhand,1,1,1,1,1,-1
+Banjo-Kazooie,N64,Banjo-Kazooie,Mumbos Mountain,1,1,-1,1,1,1
+Banjo-Kazooie,N64,Banjo-Kazooie,Rusty Bucket Bay Aquatic,1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Tooie,Cauldron Keep,-1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Tooie,Chilly Willy Chilli Billi,-1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Tooie,End Credits,1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Tooie,Here Comes Trouble,-1,1,1,1,1,1
+Banjo-Kazooie,N64,Banjo-Tooie,Isle O Hags Cauldron Keep,-1,1,1,1,1,-1
+Banjo-Kazooie,N64,Banjo-Tooie,Isle O Hags,1,1,1,1,1,-1
+Banjo-Kazooie,N64,Banjo-Tooie,Spiral Mountain,-1,1,1,-1,1,1
+Banjo-Kazooie,N64,Banjo-Tooie,Terry,-1,1,1,-1,1,1
+Banjo-Kazooie,N64,Banjo-Tooie,Witchy World,-1,1,1,1,1,1
+Battle of Olympus,NES,Battle of Olympus,3 Magic Hearts,1,1,1,-1,1,1
+Battle of Olympus,NES,Battle of Olympus,A Brave Warrior,1,1,1,1,1,1
+Battle of Olympus,NES,Battle of Olympus,A Prayer to Zeus,1,1,-1,-1,-1,1
+Battle of Olympus,NES,Battle of Olympus,Athene Sonata,1,1,1,1,1,1
+Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,-1,1,1,1,1,1
+Battle of Olympus,NES,Battle of Olympus,Olympus No Tatakai,1,1,1,1,1,1
+Battle of Olympus,NES,Battle of Olympus,Orpheus Journey Arranged,1,1,1,1,1,1
+Battle of Olympus,NES,Battle of Olympus,The Story of a Lost Love,1,1,1,1,1,1
+Chrono,SNES,Chrono Trigger,600 AD,1,1,1,1,1,1
+Chrono,SNES,Chrono Trigger,Chrono Trigger,1,1,1,1,1,1
+Chrono,SNES,Chrono Trigger,Corridors of Time,1,1,1,1,1,1
+Chrono,SNES,Chrono Trigger,Maguss Theme,1,1,-1,1,1,1
+Chrono,SNES,Chrono Trigger,Millenial Fair,1,1,1,-1,1,1
+Chrono,SNES,Chrono Trigger,Ocean Palace,-1,1,1,1,1,1
+Chrono,SNES,Chrono Trigger,Secret of the Forest,1,1,1,1,1,1
+Chrono,SNES,Chrono Trigger,Silent Light,1,1,1,1,1,1
+Chrono,SNES,Chrono Trigger,Wings That Cross Time,1,1,-1,1,1,1
+Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Bayou Boogie,-1,1,1,1,1,1
+Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Hot Head Bop,-1,1,1,-1,1,1
+Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Jib Jig,1,1,1,1,1,1
+Donkey Kong,SNES,Donkey Kong Country 2 Diddy's Kong Quest,Snakey Chantey,1,1,1,1,1,1
+Dragon Quest,NES,Dragon Quest,Battle Theme,-1,1,-1,1,1,1
+Dragon Quest,NES,Dragon Quest,Castle Theme,1,1,1,1,1,1
+Dragon Quest,NES,Dragon Quest,Cave Theme,1,1,-1,1,1,1
+Dragon Quest,NES,Dragon Quest,Final Battle,1,1,1,1,1,1
+Dragon Quest,NES,Dragon Quest,Overworld Theme,1,1,1,1,1,1
+Dragon Quest,NES,Dragon Quest,Title Screen,1,1,1,1,-1,1
+Dragon Quest,NES,Dragon Quest,Town Theme,1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,A High Wind Takes to the Skies,1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Aeriths Theme,1,1,1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Ahead On Our Way Remix,1,1,1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Anxious Heart,-1,1,1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Battle Theme,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Cait Siths Theme,1,1,-1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Chasing The Black Caped Man,-1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Cinco de Chocobo,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Continue,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Cosmo Canyon,1,1,1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Costa Del Sol,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Electric de Chocobo,1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Fortress of the Condor,-1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Gold Saucer,1,-1,1,-1,-1,1
+Final Fantasy,PS1,Final Fantasy VII,Great Warrior,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Holding My Thoughts in My Heart,1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Its Difficult To Stand On Both Feet Isnt It,-1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,JENOVA,-1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Jenova Absolute,1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Judgement Day,-1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Life Stream,-1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Lurking In The Darkness,-1,1,1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Main Theme,1,1,1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Mark of the Traitor,-1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Mining Town,1,-1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,On That Day 5 Years Ago,-1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,One Winged Angel Reborn Arrangement,-1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,One Winged Angel,-1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Oppressed People,-1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Overworld,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Rufuss Welcoming Ceremony,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Sandy Badlands,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,The Nightmare Begins,-1,1,1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Those Chosen By the Planet,-1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Tifa,1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Trail of Blood,-1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Vincents Theme,-1,1,-1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Waltz de Chocobo,1,1,1,1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Weapon Raid,-1,1,-1,-1,1,1
+Final Fantasy,PS1,Final Fantasy VII,Who Are You,-1,1,1,1,1,1
+Indiana Jones,PC,Indiana Jones and the Fate of Atlantis,Crossing,1,1,1,1,1,1
+Indiana Jones,PC,Indiana Jones and the Last Crusade,The Holy Grail,-1,1,1,1,1,1
+Indiana Jones,PC,Indiana Jones and the Last Crusade,Venice,1,1,1,1,1,1
+Indiana Jones,PC,Indiana Jones and the Last Crusade,Zeppelin,1,1,1,1,1,1
+Mana,SNES,Secret of Mana,A Wish,1,1,1,1,1,1
+Mana,SNES,Secret of Mana,Close Your Eye lids,1,1,-1,1,1,1
+Mana,SNES,Secret of Mana,Danger,1,1,1,1,1,1
+Mana,SNES,Secret of Mana,Kind Memories,1,1,-1,-1,1,1
+Mana,SNES,Secret of Mana,Meridian Dance,1,1,1,1,-1,1
+Mana,SNES,Secret of Mana,Rose and Ghost,1,1,1,1,1,1
+Mana,SNES,Secret of Mana,Spirit of the Night,1,1,1,1,1,1
+Mana,SNES,Secret of Mana,Tell A Strange Tale,1,1,1,1,1,1
+Mana,SNES,Secret of Mana,The Holy Intruder,1,1,-1,1,1,1
+Other,N64,GoldenEye 007,Caverns,-1,1,-1,1,1,1
+Other,N64,GoldenEye 007,Caverns,-1,1,-1,1,1,1
+Other,N64,GoldenEye 007,Dam,-1,1,1,1,1,1
+Other,N64,GoldenEye 007,Facility X,-1,1,1,-1,1,-1
+Other,N64,GoldenEye 007,Frigate,1,-1,-1,1,1,1
+Other,N64,GoldenEye 007,Runway X,-1,1,-1,1,1,1
+Other,N64,GoldenEye 007,Runway,-1,1,-1,1,1,1
+Other,N64,GoldenEye 007,Statue,-1,1,1,1,1,1
+Other,NES,Ghosts 'n Goblins,Main Theme,1,1,-1,1,1,1
+Other,NES,Tetris,Enter Your Name,1,1,1,1,1,1
+Other,NES,Tetris,Music A,1,1,-1,1,1,1
+Other,PC,Age of Empires II The Age of Kings,Menu,-1,1,-1,1,1,1
+Other,PC,Age of Empires,Title Theme,-1,1,1,-1,1,1
+Other,PC,Aion Tower of Eternity,Death Waltz,-1,1,1,1,1,1
+Other,PC,Aion Tower of Eternity,Fairy of the Peace,1,1,1,1,1,1
+Other,PC,Aion Tower of Eternity,Fairy of the Peace,1,1,1,1,1,1
+Other,PC,Aion Tower of Eternity,Fairy of the Peace,1,1,1,1,1,1
+Other,PC,Aion Tower of Eternity,Forgotten Sorrow,1,1,1,-1,1,1
+Other,PC,Aion Tower of Eternity,Main Theme,1,1,-1,1,1,1
+Other,PC,Aion Tower of Eternity,Song of Moonlight,1,1,-1,1,1,1
+Other,PC,Aion Tower of Eternity,The Still Sad World,1,1,1,1,1,1
+Other,PC,Aion Tower of Eternity,Wings of the Knight,1,1,1,1,1,1
+Other,PC,The Sims,Bittersweet,1,1,1,1,1,1
+Other,PC,The Sims,Buying Theme,1,1,-1,1,1,1
+Other,PC,The Sims,New Beginnings,1,1,1,1,1,1
+Other,PC,The Sims,Since We Met,1,1,1,1,1,1
+Other,PC,The Sims,The Neighbourhood,1,1,1,1,1,1
+Other,PC,The Sims,The Simple Life,1,1,1,1,1,-1
+Other,PC,The Sims,Theme 4,1,1,1,-1,1,1
+Other,PC,The Sims,Theme 5,1,1,1,1,1,1
+Other,PC,Warcraft III Reign of Chaos,Blackrock and Roll,-1,1,1,1,1,1
+Other,PC,Warcraft II,Human Theme 1,-1,1,1,1,1,1
+Other,PC,Warcraft II,Orc Theme 1,-1,1,-1,1,-1,1
+Other,PC,World of Warcraft Warlords of Draenor,Song of Elune,1,1,1,-1,1,1
+Other,PC,World of Warcraft Warlords of Draenor,Stormwind,-1,1,1,1,1,1
+Other,PC,World of Warcraft Wrath of the Lich King,Arthas my Son,-1,1,1,1,1,1
+Other,PS2,Shadow of the Colossus,Memories,1,1,1,1,1,1
+Other,PS2,Shadow of the Colossus,Prayer,-1,1,1,1,1,1
+Other,PS2,Shadow of the Colossus,The Farthest Land,-1,1,1,1,1,1
+Other,PS2,Shadow of the Colossus,The Opened Way,-1,1,1,-1,1,1
+Other,PS2,Shadow of the Colossus,The Tale of the 16 Sacrifices,1,1,1,1,-1,1
+Star Fox,GCN,Star Fox Adventures,Dark Ice Mines,-1,1,1,1,1,1
+Star Fox,SNES,Star Fox,Corneria,1,1,1,1,-1,1
+Star Fox,SNES,Star Fox,Map,1,1,1,-1,1,1
+Star Fox,SNES,Star Fox,SpaceArmada,1,1,1,-1,1,1
+Star Fox,SNES,Star Fox,Stage,1,-1,1,1,-1,1
+Star Fox,SNES,Star Fox,Venom,1,-1,1,1,1,1
+Super Mario,N64,Super Mario 64,Cool Cool Mountain,1,1,1,-1,1,1
+Super Mario,N64,Super Mario 64,Dire Dire Docks,1,1,-1,1,1,1
+Super Mario,N64,Super Mario 64,Final Bowser,-1,1,1,1,1,1
+Super Mario,N64,Super Mario 64,Haunted Merry Go Round,1,1,1,-1,1,1
+Super Mario,N64,Super Mario 64,Koopas Theme,-1,1,1,1,1,1
+Super Mario,N64,Super Mario 64,Princess Secret Slide,1,1,-1,-1,-1,1
+Super Mario,N64,Super Mario 64,Select a File,1,1,1,1,1,1
+Super Mario,NES,Super Mario Bros,Main Theme,1,1,1,1,1,1
+Super Mario,NES,Super Mario Bros,Underwater,1,1,-1,-1,1,1
+Super Mario,NES,Super Mario Bros,Underworld,-1,1,1,1,1,1
+Super Mario,SNES,Super Mario World,Castle,-1,1,-1,-1,1,1
+Super Mario,SNES,Super Mario World,Ending Theme,1,1,-1,-1,1,1
+Super Mario,SNES,Super Mario World,Forest of Illusion,1,1,-1,1,1,1
+Super Mario,SNES,Super Mario World,Overworld 2,1,1,1,1,1,1
+Super Mario,SNES,Super Mario World,Overworld,1,1,1,1,1,1
+Super Mario,SNES,Super Mario World,Title Screen,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Alien Invasion,-1,1,-1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Chase Theme,-1,1,1,-1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Clock Town,1,-1,-1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Cremias Wagon Ride,1,1,1,-1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Deku Palace,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Song of Healing,1,1,1,-1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Temple Tower,-1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,Stone Tower Temple Inverted,-1,1,-1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Majora's Mask,The Mayors Office,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Forest Temple,-1,1,1,-1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Ganondorf,-1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Gerudo Valley,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Goron City,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Hyrule Castle Courtyard,1,1,1,-1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Hyrule Castle Town,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Inside Jabu Jabus Belly,-1,1,-1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Introduction,1,-1,-1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Kakariko Village,1,1,-1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Kokiri Forest,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Links House,1,1,-1,1,1,-1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Lost Woods,1,1,-1,-1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Medley of Time,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Owls Theme,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Prelude of Light,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Sarias Song,1,1,1,-1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Serenade of Water,1,1,1,-1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Song of Storms,1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Temple of Time,-1,1,1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Windmill Hut,1,1,-1,1,1,1
+The Legend of Zelda,N64,The Legend of Zelda Ocarina of Time,Zeldas Lullaby,1,1,1,1,1,1
+Xeno,PS1,Xenogears,Bonds of Sea and Fire,1,1,1,1,1,1
+Xeno,PS1,Xenogears,Gathering Stars In the Night Sky,1,-1,1,1,1,1
+Xeno,PS1,Xenogears,Knight of Fire,-1,1,-1,-1,1,1
+Xeno,PS1,Xenogears,Lost Broken Shards,1,1,1,1,1,1
+Xeno,PS1,Xenogears,Ship of Regret and Sleep,1,1,-1,1,1,1
+Xeno,PS1,Xenogears,Tears of the Stars Hearts of the People,-1,1,-1,-1,1,1
+Xeno,PS1,Xenogears,The Wounded Shall Advance Into the Light,1,1,1,1,1,1
+Xeno,PS1,Xenogears,Treasure Which Cannot Be Stolen,1,1,1,1,1,1
+Xeno,PS1,Xenogears,Two Pieces,1,1,-1,-1,1,-1
+Xeno,PS1,Xenogears,Valley Where the Wind Is Born,1,1,1,1,1,1
