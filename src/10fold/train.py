@@ -49,6 +49,7 @@ def main(src_model, model_name, hub_id, output_file, input_json, hug_token=''):
 d_[duration]_[dots]: Defines the duration of the upcoming notes. The [duration] specifies the type of note (e.g., breve, whole, half, quarter, eighth, 16th, or 32nd). The [dots] indicates the number of dots extending the note’s duration, and can be any integer from 0 to 3.
 v_[velocity]: Indicates the velocity (or loudness) of the following notes. Velocity is discretized into bins of size 4, allowing values such as 4, 8, 12, up to 128.
 t_[tempo]: Changes the tempo of the piece, measured in beats per minute (bpm). Tempo is discretized into bins of size 4, ranging from 24 to 160 bpm. This controls the speed at which the piece is played.
+n_[pitch]: Specifies the pitch of a note using its MIDI pitch number. The [pitch] value is an integer ranging from 0 to 127, representing the full range of MIDI pitches. For example, n_60 corresponds to Middle C.
 w_[wait]: Specifies the number of time steps (units of waiting) that pass before the next musical event occurs. The value associated with w, such as in w_2 or w_3, represents the number of time steps with no musical events.
 \n: Marks the end of the piece.
 
